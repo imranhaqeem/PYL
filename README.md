@@ -1,3 +1,0 @@
-# PYL
-Learning Python
-#imrangay
